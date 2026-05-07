@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#bottom{
+   background: linear-gradient(to bottom, transparent, black);
+   width: 100%;
+}
